@@ -1,0 +1,5 @@
+shiftRegisters	KEYWORD1
+setPin	KEYWORD2
+setClear	KEYWORD2
+ON	LITERAL1
+OFF	LITERAL1
